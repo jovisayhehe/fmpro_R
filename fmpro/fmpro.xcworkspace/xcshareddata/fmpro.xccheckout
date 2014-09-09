@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>96D8C6CC-55E6-48A1-A1BB-A9E0D9498537</string>
+	<key>IDESourceControlProjectName</key>
+	<string>fmpro</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B11FE008-DF97-4681-BA70-B490D5123AFE</key>
+		<string>https://github.com/jovisayhehe/fmpro.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>fmpro.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B11FE008-DF97-4681-BA70-B490D5123AFE</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jovisayhehe/fmpro.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B11FE008-DF97-4681-BA70-B490D5123AFE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B11FE008-DF97-4681-BA70-B490D5123AFE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>fmpro</string>
+		</dict>
+	</array>
+</dict>
+</plist>
