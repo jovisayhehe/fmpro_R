@@ -16,6 +16,6 @@ fmpro
 
 ### Screenshots
 
-![img1](https://raw.githubusercontent.com/jovisayhehe/fmpro/master/images/img1.PNG?raw=true)
-![img2](https://raw.githubusercontent.com/jovisayhehe/fmpro/master/images/img2.PNG?raw=true)
-![img3](https://raw.githubusercontent.com/jovisayhehe/fmpro/master/images/img3.PNG?raw=true)
+![img1](https://raw.githubusercontent.com/jovisayhehe/fmpro_R/master/images/img1.PNG?raw=true)
+![img2](https://raw.githubusercontent.com/jovisayhehe/fmpro_R/master/images/img2.PNG?raw=true)
+![img3](https://raw.githubusercontent.com/jovisayhehe/fmpro_R/master/images/img3.PNG?raw=true)
