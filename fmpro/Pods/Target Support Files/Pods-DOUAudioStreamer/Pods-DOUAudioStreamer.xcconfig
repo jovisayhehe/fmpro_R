@@ -1,0 +1,1 @@
+PODS_DOUAUDIOSTREAMER_OTHER_LDFLAGS = -framework "AVFoundation" -framework "Accelerate" -framework "AudioToolbox" -framework "CFNetwork" -framework "CoreAudio" -framework "MobileCoreServices" -framework "OpenGLES" -framework "QuartzCore"

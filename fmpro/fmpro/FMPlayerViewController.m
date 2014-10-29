@@ -16,7 +16,6 @@
 #import <MediaPlayer/MPNowPlayingInfoCenter.h>
 #import <MediaPlayer/MPMediaItem.h>
 #import "Track.h"
-#import "NeteaseCloudMusic.h"
 #import "DouBanApi.h"
 
 static void *kStatusKVOKey = &kStatusKVOKey;
